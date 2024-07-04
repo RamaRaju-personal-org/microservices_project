@@ -116,7 +116,7 @@ releases:
 
 ## 🎨 Visual Explanation
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 This diagram illustrates the architecture and configuration for deploying multiple microservices using Helm. Here's a breakdown of the key elements:
 
